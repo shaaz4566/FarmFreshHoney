@@ -1,0 +1,11 @@
+Farm Fresh Honey v9 + PIN + WhatsApp PIN fix
+
+The 6-digit PIN Code is now included in the actual WhatsApp order message.
+Example:
+City / Town: Sreekandapuram
+District: Kannur
+PIN Code: 670631
+State: Kerala
+
+The PIN is also required during checkout and remains visible in the order preview.
+No v10 PNG/share changes were added.
