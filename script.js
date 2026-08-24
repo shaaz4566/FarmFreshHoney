@@ -5,7 +5,7 @@ const products = {
     id: "honey-500",
     name: "Farm Fresh Honey",
     size: "500 g",
-    price: 200,
+    price: 250,
     image: "IMG_1388.JPG"
   },
   "honey-1000": {
