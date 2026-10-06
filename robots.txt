@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://farmfreshhoney.duckdns.org/sitemap.xml
+Sitemap: https://farmfreshhoney.szcwebsites.in/sitemap.xml
